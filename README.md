@@ -2,8 +2,8 @@
 
 ## About Project
 
-We are creating this Calculator so that, other developers can get the benefits of it.
+We are creating this Calculator for the internship program at CODSOFT.
 
-Open index.html of new_cal folder.
+Open index.html of CODSOFT folder.
 NAME - venkata Praveen Kumar Anguluri
 EMAIL - anguluri0@gmail.com
